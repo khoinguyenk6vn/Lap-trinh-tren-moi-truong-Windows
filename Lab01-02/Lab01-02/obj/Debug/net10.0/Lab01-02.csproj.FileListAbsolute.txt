@@ -1,0 +1,16 @@
+D:\VS\Lab01-02\Lab01-02\bin\Debug\net10.0\Lab01-02.exe
+D:\VS\Lab01-02\Lab01-02\bin\Debug\net10.0\Lab01-02.deps.json
+D:\VS\Lab01-02\Lab01-02\bin\Debug\net10.0\Lab01-02.runtimeconfig.json
+D:\VS\Lab01-02\Lab01-02\bin\Debug\net10.0\Lab01-02.dll
+D:\VS\Lab01-02\Lab01-02\bin\Debug\net10.0\Lab01-02.pdb
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.AssemblyInfoInputs.cache
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.AssemblyInfo.cs
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.csproj.CoreCompileInputs.cache
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.dll
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\refint\Lab01-02.dll
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.pdb
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.genruntimeconfig.cache
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\ref\Lab01-02.dll
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.csproj.Up2Date
+D:\VS\Lab01-02\Lab01-02\obj\Debug\net10.0\Lab01-02.sourcelink.json

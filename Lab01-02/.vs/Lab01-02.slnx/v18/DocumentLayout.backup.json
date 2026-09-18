@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Lab01-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA8C52-2280-4D5F-863F-483FBA732EFF}|Lab01-02\\Lab01-02.csproj|d:\\vs\\lab01-02\\lab01-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA8C52-2280-4D5F-863F-483FBA732EFF}|Lab01-02\\Lab01-02.csproj|solutionrelative:lab01-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA8C52-2280-4D5F-863F-483FBA732EFF}|Lab01-02\\Lab01-02.csproj|d:\\vs\\lab01-02\\lab01-02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA8C52-2280-4D5F-863F-483FBA732EFF}|Lab01-02\\Lab01-02.csproj|solutionrelative:lab01-02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\Lab01-02\\Lab01-02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01-02\\Program.cs",
+              "ToolTip": "D:\\VS\\Lab01-02\\Lab01-02\\Program.cs",
+              "RelativeToolTip": "Lab01-02\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T08:50:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VS\\Lab01-02\\Lab01-02\\Student.cs",
+              "RelativeDocumentMoniker": "Lab01-02\\Student.cs",
+              "ToolTip": "D:\\VS\\Lab01-02\\Lab01-02\\Student.cs",
+              "RelativeToolTip": "Lab01-02\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T08:51:08.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
