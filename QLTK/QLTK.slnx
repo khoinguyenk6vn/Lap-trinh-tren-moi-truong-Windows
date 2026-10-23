@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QLTK.BLL/QLTK.BLL.csproj" />
+  <Project Path="QLTK.DAL/QLTK.DAL.csproj" />
+  <Project Path="QLTK/QLTK.csproj" />
+</Solution>
