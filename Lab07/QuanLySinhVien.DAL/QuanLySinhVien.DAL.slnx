@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../QuanLySinhVien.BLL/QuanLySinhVien.BLL.csproj" Id="b44f29c4-89ce-4a87-9a2c-195361fe95df" />
+  <Project Path="../QuanLySinhVien.UI/QuanLySinhVien.UI.csproj" Id="f6fd0fdb-aecc-4a3d-b085-967750158055" />
+  <Project Path="QuanLySinhVien.DAL.csproj" />
+</Solution>
